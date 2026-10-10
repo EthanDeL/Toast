@@ -2,6 +2,8 @@
 
 A clean, modern, and reusable toast notification component built with Nuxt, Vue 3, and TypeScript. This project provides lightweight toast notifications with smooth animations, multiple notification types, progress indicators, and manual close actions.
 
+<img width="1039" height="668" alt="toast" src="https://github.com/user-attachments/assets/bfd5b639-687b-4288-af9b-8ca5a849b682" />
+
 ## Features
 - **🌟 Multiple Notification Types**: Supports success, error, warning, and info notifications.
 - **✨ Smooth Animations**: Clean entrance and exit transitions powered by Vue's TransitionGroup.
